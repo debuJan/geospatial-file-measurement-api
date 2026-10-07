@@ -1,0 +1,12 @@
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+geopandas>=1.0
+pyogrio>=0.8
+fiona>=1.9
+shapely>=2.0
+pyproj>=3.6
+pydantic>=2.6
+python-multipart>=0.0.9
+pytest>=8.0
+httpx>=0.27

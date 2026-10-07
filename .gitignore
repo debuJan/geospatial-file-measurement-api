@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# App data (created at runtime)
+uploads/
+*.db
+*.db-journal
+
+# Test artefacts
+tests/test_uploads/
+tests/test.db
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Env files
+.env
